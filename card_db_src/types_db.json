@@ -1,6 +1,32 @@
 [
     {
         "card_type": [
+            "SpellAE"
+        ],
+        "card_type_image": "AEspell.png",
+        "defaultCardCount": 10,
+        "tabCostHeightOffset": -1,
+        "tabTextHeightOffset": 0
+    },
+    {
+        "card_type": [
+            "GemAE"
+        ],
+        "card_type_image": "AEgem.png",
+        "defaultCardCount": 10,
+        "tabCostHeightOffset": -1,
+        "tabTextHeightOffset": 0
+    },
+    {
+        "card_type": [
+            "ArtifactAE"
+        ],
+        "card_type_image": "AEartifact.png",
+        "tabCostHeightOffset": -1,
+        "tabTextHeightOffset": 0
+    },
+    {
+        "card_type": [
             "Action"
         ],
         "card_type_image": "action.png",

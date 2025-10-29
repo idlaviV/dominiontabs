@@ -1,4 +1,11 @@
 {
+    "aeonsend": {
+        "edition":["1"],
+        "image": "stash_set.png",
+        "set_name": "*Aeon's End*",
+        "set_text": "",
+        "text_icon": "*"
+    },
     "adventures": {
         "edition": [
             "1",
